@@ -30,3 +30,6 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/60 * * * *"
   
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
