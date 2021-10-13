@@ -4,19 +4,19 @@
     "url": "https://buddingsigners.com",
     "icon": "https://favicons.githubusercontent.com/buddingsigners.com",
     "slug": "budding-signers",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 119,
-    "timeWeek": 145,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 163,
+    "timeDay": 198,
+    "timeWeek": 162,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-13": 65
     }
   },
   {
