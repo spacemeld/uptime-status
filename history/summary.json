@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/buddingsigners.com",
     "slug": "budding-signers",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 150,
-    "timeDay": 115,
-    "timeWeek": 132,
-    "timeMonth": 133,
-    "timeYear": 150,
+    "uptimeYear": "99.96%",
+    "time": 149,
+    "timeDay": 141,
+    "timeWeek": 136,
+    "timeMonth": 134,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2021-10-13": 65
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 259,
-    "timeWeek": 218,
-    "timeMonth": 196,
-    "timeYear": 193,
+    "time": 195,
+    "timeDay": 382,
+    "timeWeek": 240,
+    "timeMonth": 200,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   }
 ]
