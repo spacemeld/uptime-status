@@ -4,9 +4,9 @@
     "url": "https://buddingsigners.com",
     "icon": "https://favicons.githubusercontent.com/buddingsigners.com",
     "slug": "budding-signers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 179,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2022-02-17": 0,
       "2022-01-29": 103,
       "2021-10-13": 65
     }
