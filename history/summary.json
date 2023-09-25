@@ -25,9 +25,9 @@
     "url": "https://old.buddingsigners.com",
     "icon": "https://icons.duckduckgo.com/ip3/old.buddingsigners.com.ico",
     "slug": "budding-signers-old",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 246,
     "timeYear": 232,
     "dailyMinutesDown": {
+      "2023-09-25": 0,
       "2023-01-29": 16
     }
   }
