@@ -6,17 +6,16 @@
     "slug": "budding-signers",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 111,
-    "timeWeek": 118,
+    "timeDay": 85,
+    "timeWeek": 114,
     "timeMonth": 138,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-08-13": 8,
       "2024-10-22": 20
     }
   }
