@@ -4,7 +4,7 @@
     "url": "https://buddingsigners.com",
     "icon": "https://icons.duckduckgo.com/ip3/buddingsigners.com.ico",
     "slug": "budding-signers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "97.79%",
     "uptimeWeek": "98.68%",
@@ -16,6 +16,7 @@
     "timeMonth": 234,
     "timeYear": 154,
     "dailyMinutesDown": {
+      "2025-08-29": 0,
       "2025-08-28": 32,
       "2025-08-27": 36,
       "2025-08-26": 44,
